@@ -1,5 +1,5 @@
 """ Interval to refresh status codes in seconds. """
-refresh_interval = 60.0
+refresh_interval = 30.0
 
 """ File containing groups ofurls to check in json format. See included example 'checkurls.json'. """
 filename = 'checkurls.json'
